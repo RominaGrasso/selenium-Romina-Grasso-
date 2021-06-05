@@ -1,3 +1,5 @@
+changes form ejercise 2
+
 1 - examples ==> ok!
 2 - deep ==> ok!
 3 - such as ==> ok!
